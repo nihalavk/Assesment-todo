@@ -1,0 +1,35 @@
+.nav-head{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+.nav-icon{
+    margin-left: 10px;
+}
+.nav-text{
+    margin-left: 10px;
+}
+.main-content{
+    padding: 20px;
+    display: flex;
+}
+.main-head{
+    padding: 20px;
+}
+.search-bar{
+    padding-top: 10px;
+    
+}
+.task-components{
+    display: flex;
+}
+.component1{
+    display: flex;
+}
+.component2{
+    display: flex;
+    margin-left: 10%;
+}
+.but1{
+    padding: 2%;
+}
